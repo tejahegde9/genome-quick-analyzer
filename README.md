@@ -11,3 +11,4 @@ A lightweight command-line bioinformatics tool to quickly analyze genome FASTA f
 ## Usage
 ```bash
 ./genome_analyzer.sh example_data/salmonella.fna
+Works for any FASTA genome assembly
